@@ -1,0 +1,1 @@
+{"tag": "function", "depth": 1, "time": 1701249265.8924992, "data": {"name": "connect_device", "call_args": {"uri": "android://127.0.0.1:5037/emulator-5554?cap_method=MINICAP&ori_method=ADBORI&touch_method=MINITOUCH&"}, "start_time": 1701249265.6315966, "ret": "<Android 'emulator-5554'>", "end_time": 1701249265.8924992}}
